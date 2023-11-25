@@ -1,6 +1,6 @@
 # Hosting With Vercel
 
-https://music-hub-iota.vercel.app/
+https://music-hub-mfs.vercel.app/
 
 # Getting Started with Create React App
 
